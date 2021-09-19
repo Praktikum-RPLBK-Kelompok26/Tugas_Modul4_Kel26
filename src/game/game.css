@@ -1,0 +1,60 @@
+.kotak{
+    width: 600px;
+    background: rgb(245, 177, 177);
+    margin: 80px auto;
+    padding: 10px 20px;
+    font-family: sans-serif;
+  }
+  
+  .kotaktampil{
+    
+    align-items: center;
+  }
+  
+  .subjudul{
+    text-align: center;
+  }
+  
+  .subjudul1{
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  label{
+    padding-top: 5px;
+    font-size: 11pt;
+    width: 100%;
+  }
+  
+  input{
+    padding-top: 5px;
+    width: 100%;
+  }
+  
+  .form{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    font-size: 11pt;
+    margin-bottom: 20px;
+  }
+  
+  .cek{
+    background: rgb(94, 216, 175);
+    color: black;
+    border: gray;
+    font-size: 11pt;
+    width: 100%;
+    border-radius: 3px;
+    padding: 10px 20px;
+  }
+  
+  .tombol{
+    background: #e04444;
+    color: white;
+    font-size: 11pt;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+  }
